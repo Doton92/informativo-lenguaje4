@@ -1,0 +1,89 @@
+body {
+    background-color: deepskyblue;
+}
+
+header {
+    background-color: white;
+    padding: 20px 70px 20px 20px;
+    margin: auto;
+    text-shadow: 2px 2px 7px black;
+   
+}
+
+h1 {
+    font-size: 4em;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1;
+    font-weight:700;
+    color: deepskyblue;
+}
+
+h2 {
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    color: white;
+    padding: 10px 80px 10px 100px;
+    text-shadow: 2px 2px 7px black;
+}
+
+.text {
+    background-color: white;
+    padding: 20px 40px 20px 30px;
+    margin: 10px 100px 10px 100px;
+   
+}
+
+.p {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1;
+    color: black;
+}
+
+.salto {
+    display: inline;
+    background-color: white;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+}
+
+a {
+    display: inline;
+    color: black;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+a:active {
+    color: red;
+}
+
+h2:hover {
+    color: black;
+}
+
+footer {
+    background-color: gray;
+    padding: 20px 40px 20px 30px;
+    margin: 10px 10px 10px 10px;
+    
+}
+
+.link {
+    color: white;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    }
+
+.link:hover{
+    color: red;
+}
+
+.der {
+    color: white;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
